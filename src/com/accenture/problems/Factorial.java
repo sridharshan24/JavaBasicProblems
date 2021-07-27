@@ -26,7 +26,7 @@ public class Factorial {
 				fact = fact * j;
 			}
 			factorial[i] = fact;
-			System.out.println(factorial[i]);
+			System.out.println("The factorial is::::::::::"+factorial[i]);
 		}
 	}
 
