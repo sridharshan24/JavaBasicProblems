@@ -20,7 +20,7 @@ public class NumberPalindrome {
 		}
 		System.out.println("The reversed number is :::::::"+ reverse);
 		if(reverse == number2)
-			System.out.println("It is palindrome");
+			System.out.println("It is palindrome::");
 		else
 			System.out.println("It is not a palindrome");
 		
